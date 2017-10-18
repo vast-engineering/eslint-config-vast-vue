@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-vast-vue",
+  "version": "1.0.0",
+  "description": "ESLint shareable config for Vue to be used with eslint-config-vast",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "npm run eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vast-engineering/eslint-config-vast-vue.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "vast",
+    "vue"
+  ],
+  "author": "Vast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vast-engineering/eslint-config-vast-vue/issues"
+  },
+  "homepage": "https://github.com/vast-engineering/eslint-config-vast-vue#readme",
+  "devDependencies": {
+    "eslint-plugin-vue": "3.13.1"
+  }
+}
