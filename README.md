@@ -26,8 +26,8 @@ See [eslint-config-vast](https://github.com/vast-engineering/eslint-config-vast)
 
 ## Other configs
 
-- [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) for [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-- [eslint-config-xo-react](https://github.com/sindresorhus/eslint-config-xo-react) for [XO](https://github.com/sindresorhus/xo) ESLint-based linter
+<!-- - [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) for [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [eslint-config-xo-react](https://github.com/sindresorhus/eslint-config-xo-react) for [XO](https://github.com/sindresorhus/xo) ESLint-based linter -->
 
 
 ## License
