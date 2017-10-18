@@ -1,7 +1,7 @@
 # eslint-config-vast-vue
 > ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for Vue to be used with [eslint-config-vast](https://github.com/vast-engineering/eslint-config-vast)
 
-[![NPM version](https://badge.fury.io/js/eslint-config-vast-react.svg)](https://www.npmjs.org/package/eslint-config-vast-react) [![Dependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react) [![devDependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react/dev-status.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react?type=dev) [![devDependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react/peer-status.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react?type=peer)
+<!-- [![NPM version](https://badge.fury.io/js/eslint-config-vast-react.svg)](https://www.npmjs.org/package/eslint-config-vast-react) [![Dependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react) [![devDependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react/dev-status.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react?type=dev) [![devDependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react/peer-status.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react?type=peer) -->
 
 This config uses [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) for linting Vue templates.
 
