@@ -21,7 +21,7 @@ module.exports = {
         'vue/order-in-components': 1,
 
         // Stylistic Issues:
-        'vue/html-indent': 1,
+        // 'vue/html-indent': 1 // Rule not found?
         'vue/html-quotes': 1,
         'vue/html-self-closing': 1,
         'vue/max-attributes-per-line': 1,
