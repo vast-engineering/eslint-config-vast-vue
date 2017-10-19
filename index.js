@@ -18,8 +18,18 @@ module.exports = {
         'vue/no-duplicate-attributes': 2,
         'vue/no-side-effects-in-computed-properties': 2,
         // this could be part of the Stylistic Issues
-        'vue/order-in-components': 1
+        'vue/order-in-components': 1,
 
         // Stylistic Issues:
+        'vue/html-indent': 1,
+        'vue/html-quotes': 1,
+        'vue/html-self-closing': 1,
+        'vue/max-attributes-per-line': 1,
+        'vue/mustache-interpolation-spacing': 1,
+        'vue/name-property-casing': 1,
+        'vue/no-multi-spaces': 1,
+        'vue/v-bind-style': 1,
+        'vue/v-on-style': 1
+
     }
 };
