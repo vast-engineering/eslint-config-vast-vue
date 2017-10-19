@@ -23,7 +23,7 @@ module.exports = {
         // Stylistic Issues:
         // 'vue/html-indent': 1 // Rule not found?
         'vue/html-quotes': 1,
-        'vue/html-self-closing': 1,
+        // 'vue/html-self-closing': 1, // Contrasts to html-end-tags
         'vue/max-attributes-per-line': 1,
         'vue/mustache-interpolation-spacing': 1,
         'vue/name-property-casing': 1,
