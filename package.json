@@ -29,11 +29,7 @@
   "devDependencies": {
     "eslint": "4.9.0",
     "eslint-config-vast": "1.7.1",
-    "eslint-plugin-vue": "3.14.0",
+    "eslint-plugin-vue": "4.0.0-beta.0",
     "pre-commit": "1.2.2"
-  },
-  "peerDependencies": {
-    "eslint": "4.9.0",
-    "eslint-plugin-vue": "3.14.0"
   }
 }
