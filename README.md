@@ -7,7 +7,7 @@ This config uses [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
 
 ## Installation
 
-    npm i --save-dev eslint-config-vast-vue eslint-config-vast eslint-plugin-vue@beta
+    npm i --save-dev eslint-config-vast-vue eslint-config-vast eslint-plugin-vue@next
 
 ## Usage
 
