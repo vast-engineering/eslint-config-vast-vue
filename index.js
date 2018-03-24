@@ -28,6 +28,7 @@ module.exports = {
             },
             svg: 'always',
             math: 'always'
-        }]
+        }],
+        'vue/attributes-order': 'warn'
     }
 };
