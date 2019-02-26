@@ -29,6 +29,10 @@ module.exports = {
             svg: 'always',
             math: 'always'
         }],
+        'vue/html-closing-bracket-newline': ['error', {
+            multiline: 'never'
+        }],
+        'vue/no-v-html': 'off',
         'vue/attributes-order': 'warn'
     }
 };
